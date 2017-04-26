@@ -1,0 +1,9 @@
+E:\123\HomeTask1\ServiceHost\bin\Debug\ServiceHost.exe.config
+E:\123\HomeTask1\ServiceHost\bin\Debug\ServiceHost.exe
+E:\123\HomeTask1\ServiceHost\bin\Debug\ServiceHost.pdb
+E:\123\HomeTask1\ServiceHost\obj\Debug\ServiceHost.exe
+E:\123\HomeTask1\ServiceHost\obj\Debug\ServiceHost.pdb
+E:\123\HomeTask1\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+E:\123\HomeTask1-2\ServiceHost\bin\Debug\ServiceHost.exe.config
+E:\123\HomeTask1-2\ServiceHost\obj\Debug\ServiceHost.exe
+E:\123\HomeTask1-2\ServiceHost\obj\Debug\ServiceHost.pdb

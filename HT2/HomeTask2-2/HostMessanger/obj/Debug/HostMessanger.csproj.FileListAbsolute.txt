@@ -1,0 +1,8 @@
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\bin\Debug\HostMessanger.exe.config
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\bin\Debug\HostMessanger.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\bin\Debug\HostMessanger.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\bin\Debug\MassengerServiceDll.dll
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\bin\Debug\MassengerServiceDll.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\obj\Debug\HostMessanger.csprojResolveAssemblyReference.cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\obj\Debug\HostMessanger.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\HostMessanger\obj\Debug\HostMessanger.pdb

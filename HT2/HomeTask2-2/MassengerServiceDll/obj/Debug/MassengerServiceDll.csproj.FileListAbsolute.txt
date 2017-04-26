@@ -1,0 +1,5 @@
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MassengerServiceDll\bin\Debug\MassengerServiceDll.dll
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MassengerServiceDll\bin\Debug\MassengerServiceDll.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MassengerServiceDll\obj\Debug\MassengerServiceDll.dll
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MassengerServiceDll\obj\Debug\MassengerServiceDll.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MassengerServiceDll\obj\Debug\MassengerServiceDll.csprojResolveAssemblyReference.cache

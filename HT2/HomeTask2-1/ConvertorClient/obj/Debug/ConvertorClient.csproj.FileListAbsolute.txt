@@ -1,0 +1,14 @@
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\bin\Debug\ConvertorClient.exe.config
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\bin\Debug\ConvertorClient.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\bin\Debug\ConvertorClient.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient.csprojResolveAssemblyReference.cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\MainWindow.g.cs
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\App.g.cs
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient_MarkupCompile.cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient_MarkupCompile.lref
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\MainWindow.baml
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient.g.resources
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient.Properties.Resources.resources
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient.csproj.GenerateResource.Cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorClient\obj\Debug\ConvertorClient.pdb

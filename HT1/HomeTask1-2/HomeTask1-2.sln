@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{2A694525-B624-4C3A-AAB9-EEDF928F847F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClient", "WPFClient\WPFClient.csproj", "{1F3C0DE1-38E7-4AD6-BDAF-AD82B3990F1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A694525-B624-4C3A-AAB9-EEDF928F847F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A694525-B624-4C3A-AAB9-EEDF928F847F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A694525-B624-4C3A-AAB9-EEDF928F847F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A694525-B624-4C3A-AAB9-EEDF928F847F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3C0DE1-38E7-4AD6-BDAF-AD82B3990F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3C0DE1-38E7-4AD6-BDAF-AD82B3990F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3C0DE1-38E7-4AD6-BDAF-AD82B3990F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3C0DE1-38E7-4AD6-BDAF-AD82B3990F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

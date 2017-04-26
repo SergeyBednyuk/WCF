@@ -1,0 +1,9 @@
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ClientDiskInfo\bin\Debug\ClientDiskInfo.exe.config
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ClientDiskInfo\bin\Debug\ClientDiskInfo.exe
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ClientDiskInfo\bin\Debug\ClientDiskInfo.pdb
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ClientDiskInfo\obj\Debug\ClientDiskInfo.exe
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ClientDiskInfo\obj\Debug\ClientDiskInfo.pdb
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ClientDiskInfo\obj\Debug\ClientDiskInfo.csprojResolveAssemblyReference.cache
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1-1\ClientDiskInfo\bin\Debug\ClientDiskInfo.exe.config
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1-1\ClientDiskInfo\obj\Debug\ClientDiskInfo.exe
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1-1\ClientDiskInfo\obj\Debug\ClientDiskInfo.pdb

@@ -1,0 +1,16 @@
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\bin\Debug\MessangerClient.exe.config
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\bin\Debug\MessangerClient.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\bin\Debug\MessangerClient.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient.csprojResolveAssemblyReference.cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MainWindow.g.cs
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\App.g.cs
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient_MarkupCompile.cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient_MarkupCompile.lref
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MainWindow.baml
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient.g.resources
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient.Properties.Resources.resources
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient.csproj.GenerateResource.Cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\obj\Debug\MessangerClient.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\bin\Debug\MassengerServiceDll.dll
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-2\MessangerClient\bin\Debug\MassengerServiceDll.pdb

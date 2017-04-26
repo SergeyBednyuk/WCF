@@ -1,0 +1,5 @@
+E:\123\HomeTask1-3\ServiceConverter\bin\Debug\ServiceConverter.exe.config
+E:\123\HomeTask1-3\ServiceConverter\bin\Debug\ServiceConverter.exe
+E:\123\HomeTask1-3\ServiceConverter\bin\Debug\ServiceConverter.pdb
+E:\123\HomeTask1-3\ServiceConverter\obj\Debug\ServiceConverter.exe
+E:\123\HomeTask1-3\ServiceConverter\obj\Debug\ServiceConverter.pdb

@@ -1,0 +1,6 @@
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ServiceDiskInfo\bin\Debug\ServiceDiskInfo.exe.config
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ServiceDiskInfo\bin\Debug\ServiceDiskInfo.exe
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ServiceDiskInfo\bin\Debug\ServiceDiskInfo.pdb
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ServiceDiskInfo\obj\Debug\ServiceDiskInfo.csprojResolveAssemblyReference.cache
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ServiceDiskInfo\obj\Debug\ServiceDiskInfo.exe
+D:\itstep\WCF\HomeTasks\HT1\HomeTask1\ServiceDiskInfo\obj\Debug\ServiceDiskInfo.pdb

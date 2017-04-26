@@ -1,0 +1,5 @@
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ServiceConvertorDll\bin\Debug\ServiceConvertorDll.dll
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ServiceConvertorDll\bin\Debug\ServiceConvertorDll.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ServiceConvertorDll\obj\Debug\ServiceConvertorDll.dll
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ServiceConvertorDll\obj\Debug\ServiceConvertorDll.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ServiceConvertorDll\obj\Debug\ServiceConvertorDll.csprojResolveAssemblyReference.cache

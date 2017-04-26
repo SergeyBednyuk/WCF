@@ -1,0 +1,8 @@
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\obj\Debug\ConvertorHost.csprojResolveAssemblyReference.cache
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\bin\Debug\ConvertorHost.exe.config
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\bin\Debug\ConvertorHost.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\bin\Debug\ConvertorHost.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\bin\Debug\ServiceConvertorDll.dll
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\bin\Debug\ServiceConvertorDll.pdb
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\obj\Debug\ConvertorHost.exe
+D:\itstep\WCF\HomeTasks\HT2\HomeTask2-1\ConvertorHost\obj\Debug\ConvertorHost.pdb
